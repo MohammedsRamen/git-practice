@@ -12,3 +12,7 @@ git commit -a
 git 
 more blahs
 
+test blahs
+more test blahs
+......
+and more...
