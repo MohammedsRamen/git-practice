@@ -1,4 +1,5 @@
 blah blah blah
+
 // returns curr branch and staging
 git status
 // add a file to staging
@@ -9,3 +10,5 @@ git commit -m 'type message'
 git commit -a
 // 
 git 
+more blahs
+
