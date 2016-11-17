@@ -1,4 +1,4 @@
-blah blah blah
+I just made a change!!!
 
 // returns curr branch and staging
 git status
