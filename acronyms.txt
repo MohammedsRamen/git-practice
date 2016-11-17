@@ -1,0 +1,23 @@
+ROB  Rules of Behavior
+PED  Portable Electronic Devices
+PII  Personal Identifiable Information
+CSAT Computer Security Awareness Training
+SNOC Security Network Operations Center (USCIS)
+OIT  Office of Information Technology 
+CCRM Change, Configuration, and Release Management
+ALM  Application Lifecyle Mgmt
+T&M  Time and Materials
+ICCB Infrastructure Change Control Board (DHS)
+CAB  Change Advisory Board (USCIS)
+CMDB Configuration Management Database
+CI   Configuaration Item (USCIS)
+ELIS Electronic Immigration System
+OTC  Office of Transformation Coordination
+PMC  Program Management Control (OTC)
+IST  Integrated Solution Teams
+HCT  Office of Human Capital and Training (USCIS)
+ITIL Information Technology Infrastructure Library
+ATO  Authority to Operate
+TMC  Team Managed Deployment
+CARB Component ACquision Review Board
+PWS  Personal Work Statement 
