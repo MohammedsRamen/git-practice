@@ -12,10 +12,11 @@ git commit -m 'type message'
 // commits everything in directory
 git commit -a
 
+
 // start new repo
 git init [project name]
 
-// download project and its version 
+// download project and its version
 git clone [url]
 
 // show file differences not yet staged
@@ -47,3 +48,8 @@ git merge [branchname]
 
 // delete branch
 git branch -d [branchname]
+=======
+test blahs
+more test blahs
+......
+and more...
