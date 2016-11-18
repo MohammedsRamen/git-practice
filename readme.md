@@ -1,5 +1,6 @@
 blah blah blah
-
+Tired of blahs
+but no changes yet
 // returns curr branch and staging
 git status
 
