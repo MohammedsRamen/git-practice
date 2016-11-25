@@ -1,4 +1,4 @@
-blah blah blah
+I just made a change!!!
 
 // returns curr branch and staging
 git status
@@ -53,3 +53,7 @@ test blahs
 more test blahs
 ......
 and more...
+// practice of git hub
+// Conflict practice
+Here's  what you asked for. DONE
+// Continue to review Github, start reviewing Jenkins
